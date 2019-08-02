@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bouncedemails",
+  "private_key_id": "527e66143199ad2be9fbdb0ee36c6143bcfb75d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoYU6frWbE2XP8\nWO7QJTfe57BEiYOnX6hVrrPBOsDZDcEvhRpXKLaWiY+A26KNF//1jmXfezDwL55c\nCd0fUBrvxLfrLK/kNrzNlZYuzO5CqrQYECvb4RP/qDW8hu08RPAyK4tDk+IyQ/O/\nT9AiL/3ttPRhrSICmL4/VbWiKLJJ9emTMYBo3OPURlL6Vi/MPjYgolSgAlZ/DKbd\nhuOM1SEkGDX6Sl3FhROhLY+vaCyN1SQc0RHfyg1HsKyFNixYD1DRBppvtD7m+hrW\nWVx76n4yaFmqCBIJJ1xWHDGNQBdnlP/y8NjWmSFRmeRtJcNEcXw04pnN0CuWzYck\nZaxh5MnxAgMBAAECggEAAMtvLA8mi4PjnL7GTcKUAdM1Gg9OFdwJNti1IRKhnPfU\n80aQPVx3VCMmqe4fbvjWH+oOoaBHg4xHlcA3XdgqcGEMy/YKut7mEDa5atO6K71g\nTgORhjjVnjpeGo6TQw2n1ozHD2Gv/edWy9tyeR7VEEPVqjpZDT5JGfjR4e4jcHiD\nKpoFditdyygliOY+YyG9Li9u13Eeu4Wj9dqEdBjXJ48amLHY05A7dwalWi8n2l2L\n2prHejM//X8noRCe41RlhneG2z2Wm9eX2i+OTfieFOY/h3eagxswHV72aOYZozIQ\n9kiRF1NotbLEYOx0S0x/QoFBZCEMiRZfrOQHN9p4eQKBgQDrLaBIw/nrh1H+gpsZ\nYyhyJzH32Ono0HfmfUVndyM7sYjKnamnpxe/dw9y3LiJviQaxiR2teWOdtM7B+LN\nN9P8Lfpv8TVNQt2QJAaVW9rH3QNz2XjArilkz32nxpsb4rDzlCa8RMyNmNT6ml0o\nNi7UZae+ttT7Zo/BnXR8XL2QRQKBgQC3Sa9K2pRfFCSB86bSEJW2y1OJfjWARRMm\n7g4Uh9YbFNGrlzD1LdsjSJEtbzFie8QOl/NN9WU08thfgz5jOP30U2HPpHL8C2de\nRJEcGulY4AFOAZ0oNj5CjBnLhn3Nq1/nVP/EGOAp2yMKBxDDpo9VH4B3c1EMJ4sG\nR97OSXIbvQKBgANRwIpmYbemUEz0UPYZxS9fSEBESoDjuF2DdSBRuSiVh+W8NfHM\n1PP53Tj0zpH7Ig1SsJ8QUC4jlTWnFddpq09K4tcDo4n0oKXxLDqdckgR4YOYFTE7\nBBCNMSvWDMhm+bJma+mKWwzAlHj5BsmTgjOzP5vcfsMRnoPQEh3TPUW1AoGABLwd\nkCR3YsFldAn0TEbrZy53ePzOqwKdzQqnSHZ93HM8O1+LfznxCEdOoMrXjsC9vtbE\nDUaCl8ySNF1yliOZw98HjtKjuckdoXzJ9tznHEmlHvvBsJE+KH/wBqbxxwdfUd2L\nQeiWmd40WIT4NOWvnDZVHkDXXiYDXGUs501Uak0CgYEA08DHlPKerpLLpvGYzTab\nQAnVrOfK/sYYjLvumxjE0QP9Oqqx6ugDEkxku2hPybkyg/LsWBKduMnM2lz+wzPD\nqbid2S51f71Mq9GCQfLHcnyUYeqDc85Cby3DVLzAn/iZjTAUEPA/VhV8wYmuiYhe\ny2AvzOh7mJgYq0qBNgpkzuo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bouncedemails@bouncedemails.iam.gserviceaccount.com",
+  "client_id": "105853784746597112429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bouncedemails%40bouncedemails.iam.gserviceaccount.com"
+}
